@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ICS College</string>
+    <string name="selected_item">Choose Department</string>
+    <string-array name="Departments">
+        <item> </item>
+        <item>ICT</item>
+        <item>BUSINESS</item>
+        <item>FASHION</item>
+        <item>INTERIOR DESIGN</item>
+    </string-array>
+</resources>
