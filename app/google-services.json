@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128535582408",
+    "project_id": "icscollege-82237",
+    "storage_bucket": "icscollege-82237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128535582408:android:fb9ab1dd02aa767bb3f7fd",
+        "android_client_info": {
+          "package_name": "com.example.icscollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128535582408-hds0ehs3uucj49a9a579nolok7gcor20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6vL2IGSQHP-jmJ6gtB92yggVe7t1xkDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128535582408-hds0ehs3uucj49a9a579nolok7gcor20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,6 +10,8 @@ import android.provider.MediaStore
 import android.widget.*
 import androidx.core.view.get
 import com.google.android.material.textfield.TextInputEditText
+import com.google.firebase.database.ktx.database
+import com.google.firebase.ktx.Firebase
 
 class MainActivity : AppCompatActivity() {
     lateinit var imageView: ImageView
@@ -45,8 +47,8 @@ class MainActivity : AppCompatActivity() {
 
             submit = findViewById(R.id.button2)
             submit.setOnClickListener {
-                    val intent = Intent(this, MainActivity::class.java)
-                    DetailsPage(intent)           }
+                    val intent = Intent(this, DetailsPage::class.java)
+            }
         }
             imageView = findViewById(R.id.imageView)
             button = findViewById(R.id.btnPicture)
